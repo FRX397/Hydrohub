@@ -1,8 +1,0 @@
-{
-  "blacklisted": [
-    "Root=1-12345678-1234567890abcdef01234567",
-    "Root=1-23456789-abcdef0123456789abcdef01",
-    "Root=1-34567890-abcdefghijklmnopqrstuvwxyz123456",
-    "1"
-  ]
-}
