@@ -26,6 +26,8 @@
 > Fixed Not Able To Switch Between Channels Issue.
 >
 > Temporarily disabled players channel until i completely fix issues this channel causes.
+>
+> Fixed Other Guis toggle functions breaks Hydro ui toggle ability
 </details>
 
 > ___
