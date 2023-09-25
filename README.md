@@ -21,7 +21,7 @@
 
 > - Hydro Hub Version 2.1
 >
-> Buv Fixes & drag functionality improvements.
+> Bug Fixes & drag functionality improvements.
 >
 > Fixed Not Able To Switch Between Channels Issue.
 >
