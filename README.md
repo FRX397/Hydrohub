@@ -13,7 +13,7 @@
 >
 > Ability.
 >
-> Everything about the current game you're in.
+> Everything - information about the current game you're in.
 >
 > Universal Tools & Scripts.
 
@@ -27,7 +27,26 @@
 >
 > Temporarily disabled players channel until i completely fix issues this channel causes.
 >
-> Fixed Other Guis toggle functions breaks Hydro ui toggle ability
+> Removed local player channel, i got no ideas what to add and it's useless. 
+>
+> Fixed Other GUIs toggle functions breaks Hydro gui toggle ability.
+>
+> Added DisplayOrder for Hydro gui - it appears over any gui now!
+>
+> changed toggle corner - it's now circular!
+>
+> Added more blox fruit scripts.
+>
+> Added blade ball channel & scripts.
+>
+> Added more project new world scripts.
+>
+> Added more shindo life scripts. 
+>
+> Added dex to tools channel - long click to simulate right click - for mobile users, right click simulation by Hosvile. 
+>
+> toggle now appears over Hydro gui. 
+>
 </details>
 
 > ___
